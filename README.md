@@ -1,5 +1,7 @@
 # Data Structures & Algorithms
 
+[![CodeFactor](https://www.codefactor.io/repository/github/arjun9/ds_algo/badge)](https://www.codefactor.io/repository/github/arjun9/ds_algo)
+
 This project's sole aim is to combine certain problems along with the knowledge needed to solve them & solutions, so as to create a single stop, for people starting out with DS/Algo.
 
 Currently, solutions to problems listed [here](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) are provided. (this is an ongoing activity, as of 16.04.2020 :stuck_out_tongue_winking_eye:)
